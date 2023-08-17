@@ -1,0 +1,66 @@
+MOVED- 100 python interview questions .pdf
+MOVED- HR interview handwritten notes.pdf
+MOVED- Object Oriented Programming Notes.pdf
+MOVED- TCS HR interview handwritten notes.pdf
+MOVED- Database Interview QA.docx
+MOVED- PLSQL Interview QA .docx
+MOVED- SQL Interview QA.docx
+MOVED- SQL Scenario based Concepts.docx
+MOVED- hr questions.png
+MOVED- hr1 question.png
+Process CompletedMOVED- 0126CS191071 CERTIFICATE.pdf
+MOVED- annexure 1_Initiation Form of Internship 0126CS191071.docx
+MOVED- annexure 2_Consent Letter from industry 0126CS191071.docx
+MOVED- annexure 3_Supervisor Evalution Form of Internship 0126CS191071 (1).docx
+MOVED- annexure 4_0126CS191071 REPORT INTERNSHIP.docx
+MOVED- 0126CS191071 PPT.pptx
+MOVED- annexure 5_Assessment of Internship.xlsx
+Process CompletedMOVED- CHANDRA SHEKHAR  (1).pdf
+MOVED- CHANDRA SHEKHAR (2).pdf
+MOVED- chandra shekhar(Resume).pdf
+MOVED- DocScanner Jul 15, 2022 3-20 PM.pdf
+MOVED- HARIOM bAIRAGI (Resume).pdf
+MOVED- HARIOM BAIRAGI.pdf
+MOVED- hariom kundali.pdf
+MOVED- Hariom's Resume (2).pdf
+MOVED- Madhu Mandloi (1).pdf
+MOVED- Madhu Mandloi (2).pdf
+MOVED- Madhu Mandloi (3).pdf
+MOVED- Madhu Mandloi.pdf
+MOVED- SAPNA AHIRWAR.pdf
+MOVED- VedicReport03-03-202120-18-52.pdf
+MOVED- VedicReport06-03-202113-31-39.pdf
+MOVED- VedicReport07-03-202117-24-18.pdf
+MOVED- DXC Resume Format.docx
+MOVED- main (1).c
+MOVED- main.c
+MOVED- Stack in c language.docx
+MOVED- album-mysql.sql
+MOVED- C language-20210529T031803Z-001.zip
+MOVED- ChromeSetup (1).exe
+MOVED- ChromeSetup.exe
+MOVED- codeblocks-20.03mingw-setup.exe
+MOVED- eclipse-inst-jre-win64.exe
+MOVED- jdk-18_windows-x64_bin.exe
+MOVED- jre-8u281-windows-x64.exe
+MOVED- picasa-3-9-138-150-multi-win.exe
+MOVED- pycharm-community-2021.2.exe
+MOVED- pycharm-professional-2020.3.3.exe
+MOVED- Python Course with Notes-20210529T033051Z-001.zip
+MOVED- python-3.9.2-amd64.exe
+MOVED- SAB_Tool_Windows_Whitelabel_141228 (1).zip
+MOVED- SAB_Tool_Windows_Whitelabel_141228.zip
+MOVED- scc admit card
+MOVED- scratch-mysql.sql
+MOVED- sql-chap02.sql
+MOVED- Unconfirmed 927013.crdownload
+MOVED- WhatsApp Image 2022-08-28 at 5.55.01 PM.jpeg
+MOVED- WhatsApp Image 2022-08-28 at 6.00.34 PM.jpeg
+MOVED- WhatsApp Image 2022-08-31 at 11.08.51 PM.jpeg
+MOVED- WhatsApp Image 2022-08-31 at 11.08.52 PM.jpeg
+MOVED- WhatsApp Image 2022-08-31 at 11.12.23 PM.jpeg
+MOVED- WhatsApp Image 2022-09-01 at 9.14.25 PM.jpeg
+MOVED- WhatsAppSetup.exe
+MOVED- world-mysql.sql
+MOVED- Zoom_cm_ds_mKCsbjb6BJ0ASl+18a4TvHilA0a-YlyVTWnML@1xFCDYEe52dR+g6l_k2b43bdd507e5fc41_.exe
+Process Completed
